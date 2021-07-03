@@ -43,7 +43,7 @@
                 <version>${spring-boot-maven-plugin.version}</version>
                 <configuration>
                     <!-- 工程主入口-->
-                    <mainClass>org.DIDIstribution.Starter</mainClass>
+                    <mainClass>org.DIDIstribution.ApplicationStarter</mainClass>
                 </configuration>
                 <executions>
                     <execution>
